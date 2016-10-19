@@ -1,0 +1,1 @@
+# whatshot_spider.py
